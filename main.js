@@ -1,5 +1,5 @@
 document.querySelector('.root').addEventListener('click', ()=>{
     alert('hey there watch out');
-    console.log('version 3');
-    console.log('another massage for version 3 of my code')
+    console.log('version 4');
+    console.log('version 4 comes with a contact form page')
 })
